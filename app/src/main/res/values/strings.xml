@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Name Display</string>
+    <string name="app_name">UserInput Display</string>
     <string name="input">Input</string>
     <string name="display">Display</string>
     <string name="user">Collects User Input and Display!! try it</string>
