@@ -1,0 +1,7 @@
+// Kotlin Program to Print my Name
+
+fun main(args:Array<String>)
+{
+	val name = "Olatunde Success"
+	print("$name")
+}
